@@ -1,2 +1,12 @@
-# Service-Request-Management-System-SRMS
-A low-code Power Apps solution to manage service requests (e.g., IT support, facilities, HR) with automated workflows, dashboards, and multi-platform accessibility.
+# Service Request Management System  
+![Power Apps](https://img.shields.io/badge/Power%20Apps-Expert-green)  
+By **Akash** | [Email](mailto:er.akashofficial@gmail.com)  
+
+## Features  
+- ✔️ Role-based access  
+- ✔️ Automated workflows  
+- ✔️ Power BI Analytics  
+
+## How to Use  
+- Import the `.zip` files into your Power Apps environment.  
+- Configure Dataverse connections.  
